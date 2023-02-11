@@ -1,3 +1,4 @@
+||googleads.g.doubleclick.net^
 ||mktoresp.com^
 ||reporo.net^
 ||engine.mobileapptracking.com^
